@@ -39,5 +39,58 @@ College canteens, cafés, and small food stalls who want to reduce manual errors
 
 ## 📂 Project Directory Structure
 
+<hr style="border:0.5px solid #ccc; width:50%; margin:auto;">
+
+## 📂 Project Directory Structure
+
 ```bash
+├── .gitattributes
+├── .gitignore
+├── Fast Food System Micro Project.sln
+├── Fast Food System Micro Project
+│   ├── App.config
+│   ├── Fast Food System Micro Project.vbproj
+│   ├── Form1.Designer.vb
+│   ├── Form1.resx
+│   ├── Form1.vb
+│   ├── Form2.Designer.vb
+│   ├── Form2.resx
+│   ├── Form2.vb
+│   ├── Form3.Designer.vb
+│   ├── Form3.resx
+│   ├── Form3.vb
+│   ├── Form4.Designer.vb
+│   ├── Form4.resx
+│   ├── Form4.vb
+│   ├── Form5.Designer.vb
+│   ├── Form5.resx
+│   ├── Form5.vb
+│   ├── My Project
+│   │   ├── Application.Designer.vb
+│   │   ├── Application.myapp
+│   │   ├── AssemblyInfo.vb
+│   │   ├── Resources.Designer.vb
+│   │   ├── Resources.resx
+│   │   ├── Settings.Designer.vb
+│   │   └── Settings.settings
+│   └── Resources
+│       ├── 1.png
+│       ├── 2.png
+│       ├── 4.jpg
+│       ├── 5.jpg
+│       ├── 6.png
+│       ├── 7.jpg
+│       ├── 8.jpg
+│       ├── amazon.jpg
+│       ├── g pay.png
+│       ├── go.png
+│       ├── payment.jpg
+│       ├── payment1.jpg
+│       ├── paytm.png
+│       ├── phone pay.png
+│       ├── system food.jpg
+│       ├── system food1.jpg
+│       └── system food2.jpg
+└── Fast Food System
+    └── Fast Food System.vdproj
 
