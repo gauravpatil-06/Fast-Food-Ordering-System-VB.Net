@@ -1,32 +1,43 @@
 🍔 𝗙𝗮𝘀𝘁 𝗙𝗼𝗼𝗱 𝗢𝗿𝗱𝗲𝗿𝗶𝗻𝗴 𝗦𝘆𝘀𝘁𝗲𝗺 – 𝗩𝗕.𝗡𝗲𝘁
 
-🚀 A Windows-based VB.Net project developed as part of the Project. It is designed to make ordering, billing, and feedback easy for small food outlets like canteens, food stalls, and cafés. The project uses Windows Forms GUI with interactive forms, validation, and digital payment support.
+🚀 A Windows-based VB.Net project developed as part of the Project.  
+It is designed to make ordering, billing, and feedback easy for small food outlets like canteens, food stalls, and cafés.  
+The project uses **Windows Forms GUI** with interactive forms, validation, and digital payment support.
 
-🔧 𝗞𝗲𝘆 𝗙𝗲𝗮𝘁𝘂𝗿𝗲𝘀:
+<hr style="border:0.5px solid #ccc; width:50%; margin:auto;">
 
-• 🖥 𝗟𝗼𝗴𝗶𝗻 𝗦𝘆𝘀𝘁𝗲𝗺 –  User authentication with error validation <br>
-• 🍟 𝗢𝗿𝗱𝗲𝗿 𝗠𝗼𝗱𝘂𝗹𝗲 – Select food items, quantities, and auto calculate bill <br>
-• 💸 𝗗𝗶𝗴𝗶𝘁𝗮𝗹 𝗣𝗮𝘆𝗺𝗲𝗻𝘁𝘀 –  Links for UPI, Paytm, Google Pay, and PhonePe <br>
-• 📝 𝗖𝘂𝘀𝘁𝗼𝗺𝗲𝗿 𝗗𝗲𝘁𝗮𝗶𝗹𝘀 – Capture name, address, and phone before order <br>
-• 📦 𝗢𝗿𝗱𝗲𝗿 𝗖𝗼𝗻𝗳𝗶𝗿𝗺𝗮𝘁𝗶𝗼𝗻 – Display of successfully placed orders <br>
-• ⭐ 𝗙𝗲𝗲𝗱𝗯𝗮𝗰𝗸 𝗙𝗼𝗿𝗺 –  Collect user reviews with error validation <br>
-• 👨‍💻 𝗧𝗲𝗰𝗵 𝗨𝘀𝗲𝗱 – VB.Net, Windows Forms, Visual Studio IDE, SQL/Access DB <br>
+## 🔧 Key Features:
 
-🎯 𝗜𝗱𝗲𝗮𝗹 𝗙𝗼𝗿:
+• 🖥 **Login System** – User authentication with error validation <br>
+• 🍟 **Order Module** – Select food items, quantities, and auto calculate bill <br>
+• 💸 **Digital Payments** – Links for UPI, Paytm, Google Pay, and PhonePe <br>
+• 📝 **Customer Details** – Capture name, address, and phone before order <br>
+• 📦 **Order Confirmation** – Display of successfully placed orders <br>
+• ⭐ **Feedback Form** – Collect user reviews with error validation <br>
+• 👨‍💻 **Tech Used** – VB.Net, Windows Forms, Visual Studio IDE, SQL/Access DB <br>
 
-This project is perfect for college canteens, cafés, and small food stalls who want to reduce manual errors, increase billing efficiency, and offer a digital-friendly experience to students and staff.
+<hr style="border:0.5px solid #ccc; width:50%; margin:auto;">
 
-📸 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗦𝗰𝗿𝗲𝗲𝗻𝘀𝗵𝗼𝘁𝘀:
+## 🎯 Ideal For:
 
-🔐 𝗟𝗼𝗴𝗶𝗻 𝗜𝗻𝘁𝗲𝗿𝗳𝗮𝗰𝗲 – 𝗦𝗲𝗰𝘂𝗿𝗲 𝗨𝘀𝗲𝗿 𝗔𝘂𝘁𝗵𝗲𝗻𝘁𝗶𝗰𝗮𝘁𝗶𝗼𝗻
+College canteens, cafés, and small food stalls who want to reduce manual errors, increase billing efficiency, and offer a digital-friendly experience to students and staff.
+
+<hr style="border:0.5px solid #ccc; width:50%; margin:auto;">
+
+## 📸 Project Screenshots:
+
+🔐 **Login Interface – Secure User Authentication**  
 ![Login Page](https://github.com/user-attachments/assets/12d3a029-7842-477e-b597-26315f329fea)
 
-🏠 𝗛𝗼𝗺𝗲 𝗗𝗮𝘀𝗵𝗯𝗼𝗮𝗿𝗱 – 𝗖𝗼𝗿𝗲 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗠𝗼𝗱𝘂𝗹𝗲
+🏠 **Home Dashboard – Core Project Module**  
 ![Home Page](https://github.com/user-attachments/assets/dfbc4879-ce19-4fa6-ad23-7e1faea8b45f)
 
-💳 𝗣𝗮𝘆𝗺𝗲𝗻𝘁 𝗠𝗼𝗱𝘂𝗹𝗲 – 𝗨𝗣𝗜-𝗕𝗮𝘀𝗲𝗱 𝗧𝗿𝗮𝗻𝘀𝗮𝗰𝘁𝗶𝗼𝗻 𝗦𝘆𝘀𝘁𝗲𝗺
+💳 **Payment Module – UPI-Based Transaction System**  
 ![Payment Method Page](https://github.com/user-attachments/assets/90b54a7e-f455-402f-a3ff-9640ecea2df1)
 
+<hr style="border:0.5px solid #ccc; width:50%; margin:auto;">
 
+## 📂 Project Directory Structure
 
+```bash
 
