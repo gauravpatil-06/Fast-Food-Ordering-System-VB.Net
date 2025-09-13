@@ -15,3 +15,10 @@
 🎯 𝗜𝗱𝗲𝗮𝗹 𝗙𝗼𝗿:
 
 This project is perfect for college canteens, cafés, and small food stalls who want to reduce manual errors, increase billing efficiency, and offer a digital-friendly experience to students and staff.
+
+📸 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗦𝗰𝗿𝗲𝗲𝗻𝘀𝗵𝗼𝘁𝘀:
+
+🔐 Login Interface – Secure User Authentication
+![Login Page](https://github.com/user-attachments/assets/12d3a029-7842-477e-b597-26315f329fea)
+
+
