@@ -37,7 +37,8 @@ College canteens, cafés, and small food stalls who want to reduce manual errors
 
 <hr style="border:0.5px solid #ccc; width:50%; margin:auto;">
 
-## 📂 Project Directory Structure
+## 🔄 Flowchart
+![flow](https://github.com/user-attachments/assets/85cb1372-fdf8-4364-b05d-8e9b2009a086)
 
 <hr style="border:0.5px solid #ccc; width:50%; margin:auto;">
 
