@@ -4,20 +4,13 @@
 
 🔧 𝗞𝗲𝘆 𝗙𝗲𝗮𝘁𝘂𝗿𝗲𝘀:
 
-• 🖥 𝗟𝗼𝗴𝗶𝗻 𝗦𝘆𝘀𝘁𝗲𝗺 –  User authentication with error validation
-
-• 🍟 𝗢𝗿𝗱𝗲𝗿 𝗠𝗼𝗱𝘂𝗹𝗲 – Select food items, quantities, and auto calculate bill
-
-• 💸 𝗗𝗶𝗴𝗶𝘁𝗮𝗹 𝗣𝗮𝘆𝗺𝗲𝗻𝘁𝘀 –  Links for UPI, Paytm, Google Pay, and PhonePe
-
-• 📝 𝗖𝘂𝘀𝘁𝗼𝗺𝗲𝗿 𝗗𝗲𝘁𝗮𝗶𝗹𝘀 – Capture name, address, and phone before order
-
-• 📦 𝗢𝗿𝗱𝗲𝗿 𝗖𝗼𝗻𝗳𝗶𝗿𝗺𝗮𝘁𝗶𝗼𝗻 – Display of successfully placed orders
-
-• ⭐ 𝗙𝗲𝗲𝗱𝗯𝗮𝗰𝗸 𝗙𝗼𝗿𝗺 –  Collect user reviews with error validation
-
-• 👨‍💻 𝗧𝗲𝗰𝗵 𝗨𝘀𝗲𝗱 – VB.Net, Windows Forms, Visual Studio IDE, SQL/Access DB
-
+• 🖥 𝗟𝗼𝗴𝗶𝗻 𝗦𝘆𝘀𝘁𝗲𝗺 –  User authentication with error validation <br>
+• 🍟 𝗢𝗿𝗱𝗲𝗿 𝗠𝗼𝗱𝘂𝗹𝗲 – Select food items, quantities, and auto calculate bill <br>
+• 💸 𝗗𝗶𝗴𝗶𝘁𝗮𝗹 𝗣𝗮𝘆𝗺𝗲𝗻𝘁𝘀 –  Links for UPI, Paytm, Google Pay, and PhonePe <br>
+• 📝 𝗖𝘂𝘀𝘁𝗼𝗺𝗲𝗿 𝗗𝗲𝘁𝗮𝗶𝗹𝘀 – Capture name, address, and phone before order <br>
+• 📦 𝗢𝗿𝗱𝗲𝗿 𝗖𝗼𝗻𝗳𝗶𝗿𝗺𝗮𝘁𝗶𝗼𝗻 – Display of successfully placed orders <br>
+• ⭐ 𝗙𝗲𝗲𝗱𝗯𝗮𝗰𝗸 𝗙𝗼𝗿𝗺 –  Collect user reviews with error validation <br>
+• 👨‍💻 𝗧𝗲𝗰𝗵 𝗨𝘀𝗲𝗱 – VB.Net, Windows Forms, Visual Studio IDE, SQL/Access DB <br>
 
 🎯 𝗜𝗱𝗲𝗮𝗹 𝗙𝗼𝗿:
 
