@@ -18,7 +18,15 @@ This project is perfect for college canteens, cafés, and small food stalls who 
 
 📸 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗦𝗰𝗿𝗲𝗲𝗻𝘀𝗵𝗼𝘁𝘀:
 
-🔐 Login Interface – Secure User Authentication
+🔐 𝗟𝗼𝗴𝗶𝗻 𝗜𝗻𝘁𝗲𝗿𝗳𝗮𝗰𝗲 – 𝗦𝗲𝗰𝘂𝗿𝗲 𝗨𝘀𝗲𝗿 𝗔𝘂𝘁𝗵𝗲𝗻𝘁𝗶𝗰𝗮𝘁𝗶𝗼𝗻
 ![Login Page](https://github.com/user-attachments/assets/12d3a029-7842-477e-b597-26315f329fea)
+
+🏠 𝗛𝗼𝗺𝗲 𝗗𝗮𝘀𝗵𝗯𝗼𝗮𝗿𝗱 – 𝗖𝗼𝗿𝗲 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗠𝗼𝗱𝘂𝗹𝗲
+![Home Page](https://github.com/user-attachments/assets/dfbc4879-ce19-4fa6-ad23-7e1faea8b45f)
+
+💳 𝗣𝗮𝘆𝗺𝗲𝗻𝘁 𝗠𝗼𝗱𝘂𝗹𝗲 – 𝗨𝗣𝗜-𝗕𝗮𝘀𝗲𝗱 𝗧𝗿𝗮𝗻𝘀𝗮𝗰𝘁𝗶𝗼𝗻 𝗦𝘆𝘀𝘁𝗲𝗺
+![Payment Method Page](https://github.com/user-attachments/assets/90b54a7e-f455-402f-a3ff-9640ecea2df1)
+
+
 
 
